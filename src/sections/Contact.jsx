@@ -58,16 +58,16 @@ export default function Contact() {
 
           <div className="mt-10 flex flex-col gap-3">
             <a
-              href="tel:+256700000000"
+              href="tel:+256701373284"
               className="inline-flex items-center gap-2.5 text-white/70 hover:text-white text-[0.9rem] font-medium transition-colors"
             >
               <span className="text-brand-light">📞</span> +256 701 373 284
             </a>
             <a
-              href="mailto:hello@meditrackug.com"
+              href="mailto:atuhaire1738@gmail.com"
               className="inline-flex items-center gap-2.5 text-white/70 hover:text-white text-[0.9rem] font-medium transition-colors"
             >
-              <span className="text-brand-light">✉️</span> hello@meditrackug.com
+              <span className="text-brand-light">✉️</span> atuhaire1738@gmail.com
             </a>
           </div>
         </div>
